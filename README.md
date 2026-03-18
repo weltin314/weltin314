@@ -6,7 +6,7 @@
 
 ## 💻 Linguagens e Tecnologias
 
-<img align="right" src="https://media.tenor.com/QEBvTb9FaBkAAAAi/ops.gif" width="310"/>
+<img align="right" src="https://media.tenor.com/QEBvTb9FaBkAAAAi/ops.gif" width="320"/>
 
 #### 🌐 Front-end  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
